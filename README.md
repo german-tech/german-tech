@@ -1,6 +1,6 @@
 # German Tovar
 
-### Linux Infrastructure · Proxmox · Automation · Digital Audio Tools
+### Linux Infrastructure · Virtualization · Automation · Digital Audio Tools
 
 I design and maintain reliable technical systems across infrastructure, automation, and digital audio.
 
@@ -26,14 +26,15 @@ My work focuses on:
 
 ## Selected work
 
-- **Infrastructure automation** — reproducible Linux configurations and operational scripts
-- **Monitoring systems** — dashboards for infrastructure visibility and service health
+- **Linux infrastructure** — virtualization, self-hosted services, networking, and operational tooling
+- **Proxmox and Ceph** — clustered infrastructure with LXC containers, VLANs, and unified monitoring
 - **Estudio GETL** — AI-assisted audio analysis, spectral QC, artifact detection, stem separation, MIDI transcription, and harmonic analysis
-- **Technical documentation** — structured runbooks, system notes, and maintainable project documentation
+- **Hermes Agent** — personal AI-assisted automation for services and technical workflows
 
-## Website
+## Portfolios
 
-[germantovar.com](https://germantovar.com)
+- [Technical portfolio](https://germantovar.com/tech/) — infrastructure, virtualization, automation, and audio tools
+- [germantovar.com](https://germantovar.com) — artistic portfolio and personal website
 
 ---
 
